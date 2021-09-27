@@ -1,8 +1,6 @@
 # Kong OAuth2-Audience Plugin Demo
 
-Just execute [`start.sh`](./start.sh).
-
-To clean up, execute [`stop.sh`](./stop.sh)
+A short script to demonstrate how to use [OAuth2-Audience](https://github.com/TelkomIndonesia/kong-plugin-oauth2-audience) Kong Plugin. To start, just execute [`start.sh`](./start.sh) and follow the instruction on command line. To clean up, execute [`stop.sh`](./stop.sh)
 
 ## Prerequisite
 
